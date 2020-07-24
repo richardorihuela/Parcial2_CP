@@ -1,0 +1,10 @@
+com\mycompany\webservices\NewWebService_Service.class
+com\mycompany\webservices\AlumnoDBResponse.class
+com\mycompany\webservices\package-info.class
+com\mycompany\consumirservicios\consumir.class
+com\mycompany\webservices\AlumnoDB.class
+com\mycompany\webservices\NewWebService.class
+com\mycompany\webservices\Alumno1Response.class
+com\mycompany\webservices\ObjectFactory.class
+com\mycompany\webservices\Alumno1.class
+com\mycompany\consumirservicios\consumir$1.class
